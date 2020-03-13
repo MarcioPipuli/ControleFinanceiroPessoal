@@ -1,4 +1,4 @@
-package Testes;
+package br.com.pessoal.financeiro.controle.marcio.pipuli.testes;
 
 
 /**

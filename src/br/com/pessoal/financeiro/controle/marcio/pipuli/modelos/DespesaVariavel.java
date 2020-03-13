@@ -1,3 +1,4 @@
+package br.com.pessoal.financeiro.controle.marcio.pipuli.modelos;
 /**
  * Escrever aqui os comentários sobre a classe
  * 
